@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pizza-Italy.Amo/static/css/main.8f3b6430.css",
+    "main.js": "/Pizza-Italy.Amo/static/js/main.ac4f9561.js",
+    "index.html": "/Pizza-Italy.Amo/index.html",
+    "main.8f3b6430.css.map": "/Pizza-Italy.Amo/static/css/main.8f3b6430.css.map",
+    "main.ac4f9561.js.map": "/Pizza-Italy.Amo/static/js/main.ac4f9561.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f3b6430.css",
+    "static/js/main.ac4f9561.js"
+  ]
+}
